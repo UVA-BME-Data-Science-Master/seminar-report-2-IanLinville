@@ -1,0 +1,31 @@
+---
+title: 'Seminar Report #2'
+output:
+  html_document:
+    df_print: paged
+---
+__Seminar Report #2__
+
+_Ian Linville_
+
+__The Genetics and Pharmacogenetics of Idiopathic Pulmonary Fibrosis (IPF): the role of TOLLIP__
+
+Imre Noth, MD
+
+Chief, Division of Pulmonary and Critical Care Medicine
+
+Professor Of Medicine
+
+University of Virginia
+
+Pinn 1017 
+
+Wednesday, October 31st from 1-2pm
+
+	This presentation was about Idiopathic pulmonary fibrosis (IPF), a chronic disease that causes fibrosis of the lungs with an unknown cause. In the lungs it presents itself in a honeycomb pattern and causes the lungs to thicken and make it harder to breathe. Currently the 5 year survival rate is at 30-50% and there are about 50,000 cases a year. IPF is heterogeneous in its natural history, non-predictable and is largely based on the genetics of the individuals. It has comorbidities that often cause death, such as congestive heart failure or pulmonary embolisms. 
+	
+	Noth proceeded to discuss TOLLIP, a toll interactive protein, that has canonical negative regulation of TLR at Myd88 and TIRAP signaling pathways. Following TOLLIP  he discussed the PANTHER study that gave IPF patients prednisone, azathioprine, and NAC. The results of this study discovered that taking all three increased the likelihood of dying by almost 9X, but it led to a study of just NAC that seemed to have secondary effects. They did a genotype count and compared using a Chi-square test and then continued to test the drug-gene interaction with multivariable cox regression models. This study concluded that NAC is only effective in about 1 out of 4 patients, being related to the individual’s genetics. 
+	
+	Then they studied the mechanisms of NAC in the TOLLIP variants, and concluded that antioxidant NAC effectively eliminated inflammatory signals in excess TOLLIP. But once again, it was extremely important to know the individual's genetics because if you take NAC with the wrong genotype it can actually make it worse. They’re now working on getting a prospective treatment in ipf using genotypes for NAC selection, with about 1000 patients and have identified 40-60% of the genes associated in these processes. Once more genes have been identified it should help more with prognosis of IPF. It is still not fully understood, but currently they are attempting to identify more targets and mechanisms associated with IPF. 
+	
+	One question I had is how they would be able to determine who would be able to get these treatments if ever produced in larger quantities. Since it is only effective with certain genetics, and can cause even more damage with different genetics, would everyone have to have their DNA mandatorily tested? This is a really limiting factor in the distribution of this treatment. Another question I had was about the disease in general. If it is so unpredictable, and the initial symptoms are simply shortness of breath. What ways have they been able to diagnose these early? How often is this misdiagnosed and let to increase over time? Are there any tactics they have besides a full CT to catch this diagnosis?
